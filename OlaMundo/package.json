@@ -1,0 +1,15 @@
+{
+  "name": "aula_node",
+  "version": "1.0.0",
+  "description": "meu 1° projeto com o npm",
+  "main": "index.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "ola",
+    "mundo"
+  ],
+  "author": "Lucascastro",
+  "license": "ISC"
+}

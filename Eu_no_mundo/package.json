@@ -1,0 +1,15 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": " meu 2° projeto com o npm",
+  "main": "index.html.",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "eu",
+    "mundo"
+  ],
+  "author": "Lucas Castro",
+  "license": "ISC"
+}
